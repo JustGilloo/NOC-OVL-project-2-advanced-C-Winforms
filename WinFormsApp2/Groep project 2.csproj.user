@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBestandLezen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBestandVerwijderen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmManager Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmStockManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSuper-Admin Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmVerkoop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmWerknemerAanmaken.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmWerknemerVerwijderen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WerkBoerLogic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

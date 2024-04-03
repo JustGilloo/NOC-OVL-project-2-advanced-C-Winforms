@@ -1,0 +1,27 @@
+<Afdelingen>
+  <Afdeling>
+    <Naam>Verkoop</Naam>
+    <ID>e8e1fb10-5020-4c22-9bec-538ddc727a52</ID>
+    <Beschrijving>Het verkopen van producten.</Beschrijving>
+  </Afdeling>
+  <Afdeling>
+    <Naam>Boer</Naam>
+    <ID>41164bbf-7a0f-4bb7-8b02-f71ec72bdb03</ID>
+    <Beschrijving>Bewerkt het land en onze machines.</Beschrijving>
+  </Afdeling>
+  <Afdeling>
+    <Naam>Stock-managment</Naam>
+    <ID>579a9ef2-c0b7-4a5d-a636-20e889f374ca</ID>
+    <Beschrijving>Het in de gaten houden van onze stock.</Beschrijving>
+  </Afdeling>
+  <Afdeling>
+    <Naam>Administratie</Naam>
+    <ID>e7175dae-a347-4959-92a3-0ec7e91ca232</ID>
+    <Beschrijving>Deze doet al onze papieren.</Beschrijving>
+  </Afdeling>
+  <Afdeling>
+    <Naam>Admin</Naam>
+    <ID>be13b40e-55e1-49f3-9b9b-f1032953c989</ID>
+    <Beschrijving>Zij die overal alles mogen</Beschrijving>
+  </Afdeling>
+</Afdelingen>

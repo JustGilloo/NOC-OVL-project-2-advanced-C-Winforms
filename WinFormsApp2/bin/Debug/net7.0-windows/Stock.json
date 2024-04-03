@@ -1,0 +1,47 @@
+[
+  {
+    "Naam": "Kruiden",
+    "Aantal": 8501,
+    "Prijs": 10
+  },
+  {
+    "Naam": "Suikerbiet",
+    "Aantal": 12000,
+    "Prijs": 3
+  },
+  {
+    "Naam": "Ma\u00EFs",
+    "Aantal": 14000,
+    "Prijs": 2
+  },
+  {
+    "Naam": "Fruit",
+    "Aantal": 6000,
+    "Prijs": 6
+  },
+  {
+    "Naam": "Vanille",
+    "Aantal": 1000,
+    "Prijs": 18
+  },
+  {
+    "Naam": "Gist",
+    "Aantal": 6300,
+    "Prijs": 12
+  },
+  {
+    "Naam": "Water",
+    "Aantal": 10000,
+    "Prijs": 8
+  },
+  {
+    "Naam": "Aardappelen",
+    "Aantal": 7989,
+    "Prijs": 20
+  },
+  {
+    "Naam": "Chocolade",
+    "Aantal": 2000,
+    "Prijs": 7
+  }
+]

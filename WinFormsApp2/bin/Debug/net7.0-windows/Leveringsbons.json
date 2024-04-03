@@ -1,0 +1,34 @@
+[
+  {
+    "Bedrijfsnaam": "Grondstoffen.Base()",
+    "Naam": "Aardappelen",
+    "Aantal": 34,
+    "Prijs": 20,
+    "TotaalBedragGrondstof": 680,
+    "Bericht": "Dank u voor uw bestelling."
+  },
+  {
+    "Bedrijfsnaam": "Grondstoffen.Base()",
+    "Naam": "Kruiden",
+    "Aantal": 33,
+    "Prijs": 10,
+    "TotaalBedragGrondstof": 330,
+    "Bericht": "Dank u voor uw bestelling."
+  },
+  {
+    "Bedrijfsnaam": "Grondstoffen.Base()",
+    "Naam": "Aardappelen",
+    "Aantal": 34,
+    "Prijs": 20,
+    "TotaalBedragGrondstof": 680,
+    "Bericht": "Dank u voor uw bestelling."
+  },
+  {
+    "Bedrijfsnaam": "Grondstoffen.Base()",
+    "Naam": "Kruiden",
+    "Aantal": 33,
+    "Prijs": 10,
+    "TotaalBedragGrondstof": 330,
+    "Bericht": "Dank u voor uw bestelling."
+  }
+]
